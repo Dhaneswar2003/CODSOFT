@@ -1,4 +1,4 @@
-Customer Churn Prediction
+CUSTOMER CHURN PREDICTION
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 This project aims to predict customer churn for a subscription-based service using machine learning. We utilize customer data, including demographics and usage behavior, to build predictive models.
 
